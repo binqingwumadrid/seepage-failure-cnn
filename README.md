@@ -89,8 +89,6 @@ its geometry inputs are outside the scope of this repository.
 
 ## License
 
-The source code is released under the [MIT License](LICENSE). The accompanying
-article and third-party methods retain their respective rights.
-
 GitHub-compatible citation metadata is provided in [`CITATION.cff`](CITATION.cff).
-The article DOI can be added after publication.
+
+The accompanying article has been published in *Engineering Applications of Artificial Intelligence* and is available at [https://doi.org/10.1016/j.engappai.2026.116545](https://doi.org/10.1016/j.engappai.2026.116545).

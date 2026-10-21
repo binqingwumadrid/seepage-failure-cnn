@@ -17,3 +17,24 @@ authors:
     given-names: Chenfei
   - family-names: Chen
     given-names: Yijun
+
+preferred-citation:
+  type: article
+  title: "A forward–inverse convolutional neural network framework for accelerated seepage failure prediction in porous geomaterials"
+  authors:
+    - family-names: Wu
+      given-names: Binqing
+    - family-names: Wang
+      given-names: Ning
+    - family-names: Pastor
+      given-names: Manuel
+    - family-names: Gu
+      given-names: Chongshi
+    - family-names: Shao
+      given-names: Chenfei
+    - family-names: Chen
+      given-names: Yijun
+  journal: "Engineering Applications of Artificial Intelligence"
+  volume: 186
+  year: 2026
+  doi: "10.1016/j.engappai.2026.116545"
